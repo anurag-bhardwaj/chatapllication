@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatapllication/static/css/main.b0e7a0b7.chunk.css",
+    "main.js": "/chatapllication/static/js/main.4293b0c4.chunk.js",
+    "main.js.map": "/chatapllication/static/js/main.4293b0c4.chunk.js.map",
+    "runtime-main.js": "/chatapllication/static/js/runtime-main.2f9b80d1.js",
+    "runtime-main.js.map": "/chatapllication/static/js/runtime-main.2f9b80d1.js.map",
+    "static/js/2.efefe4da.chunk.js": "/chatapllication/static/js/2.efefe4da.chunk.js",
+    "static/js/2.efefe4da.chunk.js.map": "/chatapllication/static/js/2.efefe4da.chunk.js.map",
+    "index.html": "/chatapllication/index.html",
+    "precache-manifest.5ea7d74d7e209c5f0de3e067f69ba12b.js": "/chatapllication/precache-manifest.5ea7d74d7e209c5f0de3e067f69ba12b.js",
+    "service-worker.js": "/chatapllication/service-worker.js",
+    "static/css/main.b0e7a0b7.chunk.css.map": "/chatapllication/static/css/main.b0e7a0b7.chunk.css.map",
+    "static/js/2.efefe4da.chunk.js.LICENSE.txt": "/chatapllication/static/js/2.efefe4da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f9b80d1.js",
+    "static/js/2.efefe4da.chunk.js",
+    "static/css/main.b0e7a0b7.chunk.css",
+    "static/js/main.4293b0c4.chunk.js"
+  ]
+}
